@@ -1,8 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=222&section=header&text=Hi,%20I'm%20Ahmad%20Madani!%20%F0%9F%91%8B&fontSize=45&width=1000&fontColor=ffffff)
-
-<h1 align="center">Computer Engineering Student</h1>
-<!-- images...<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> --> 
-<!-- ![ProfileView](https://komarev.com/ghpvc/?username=Ahmadmadani265&label=Profile%20views&color=blueviolet) -->
 
 <h1 align="center">Hi 👋, I'm Rand Ethar</h1>
 <h3 align="center">Computer Engineering Student</h3>

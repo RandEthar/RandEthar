@@ -1,50 +1,43 @@
-<div align="center">
+<h1 align="center">👋 Hi, I'm Rand Ethar</h1>
+<h3 align="center">🎓 Computer Engineering Student | 💙 Flutter Developer</h3>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" /> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" /><br>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZ3anF4NnhlZXAzZ29jYXptdXdyODg4cnZobDZvNmlud2p3M2hkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" alt="gif" width="400"/>
+</p>
 
-### 👩‍💻 Hi, I'm Rand Ethar – Flutter Developer from Palestine 🇵🇸
 
-<br>
-
-<details>
-<summary><strong>🎧 Currently vibing to:</strong></summary>
-<br>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=RandEthar&style=flat&color=blue)
-[![telegram badge](https://img.shields.io/badge/Contact-Rand%20on%20Telegram-blue?style=flat&logo=telegram)](https://t.me/spxd007) <!-- عدلي الرابط لاحقًا لو عندك تيليجرام خاص -->
+### 📫 Contact
+- **Email**: randethar@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/-Rand%20Ethar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rand%20ethar)
+- [![LeetCode](https://img.shields.io/badge/-Rand_Ethar-orange?style=flat&logo=leetcode)](https://leetcode.com/rand_ethar)
 
 ---
 
-### 🚀 Tools & Technologies
+### 🛠️ Languages and Tools
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
+</p>
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+---
 
-```dart
-// About me in Dart style
+### 📊 GitHub Stats
 
-class RandEthar extends FlutterDeveloper {
-  final String location = "Palestine 🇵🇸";
-  final List<String> skills = ["Flutter", "Dart", "Firebase", "Git"];
-  final bool lovesUIUX = true;
-}
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=randethar&show_icons=true&locale=en" alt="Rand's GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=randethar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=randethar&" alt="GitHub Streak" />
+</p>
 
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
 </a>

@@ -1,31 +1,43 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Rand Ethar</h1>
-<h3 align="center">Computer Engineering Student</h3>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZ3anF4NnhlZXAzZ29jYXptdXdyODg4cnZobDZvNmlud2p3M2hkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" alt="gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=randethar&label=Profile%20views&color=0e75b6&style=flat" alt="randethar" /> </p>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" /> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" /><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=randethar" alt="randethar" /></a> </p>
+### 👩‍💻 Hi, I'm Rand Ethar – Flutter Developer from Palestine 🇵🇸
 
-- 📫 How to reach me **randethar@gmail.com**
+<br>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<details>
+<summary><strong>🎧 Currently vibing to:</strong></summary>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rand ethar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rand ethar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rand_ethar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rand_ethar" height="30" width="40" /></a>
-</p>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+</details>
 
+![Profile Views](https://komarev.com/ghpvc/?username=RandEthar&style=flat&color=blue)
+[![telegram badge](https://img.shields.io/badge/Contact-Rand%20on%20Telegram-blue?style=flat&logo=telegram)](https://t.me/spxd007) <!-- عدلي الرابط لاحقًا لو عندك تيليجرام خاص -->
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=randethar&show_icons=true&locale=en&layout=compact" alt="randethar" /></p>
+### 🚀 Tools & Technologies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=randethar&show_icons=true&locale=en" alt="randethar" /></p>
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randethar&" alt="randethar" /></p>
+```dart
+// About me in Dart style
+
+class RandEthar extends FlutterDeveloper {
+  final String location = "Palestine 🇵🇸";
+  final List<String> skills = ["Flutter", "Dart", "Firebase", "Git"];
+  final bool lovesUIUX = true;
+}
+
 
 
 
